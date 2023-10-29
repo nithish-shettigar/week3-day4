@@ -1,0 +1,16 @@
+backend:
+
+node js is a runtime environment of Javascript which executes javascript code outside the browser.
+
+npm init (press enter until you get yes)
+node server.js (to run)
+npm i express (install express)
+
+mongodb
+chaithu
+chaithu@1997
+mongodb+srv://chaithu:chaithu@1997@cluster0.yopwneu.mongodb.net/
+
+npm i mongoose
+npm i nodemon
+npx nodemon server.js
