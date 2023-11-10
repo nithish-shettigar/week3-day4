@@ -9,8 +9,8 @@ npm i express (install express)
 mongodb
 nithish-shettigar
 
-kittu214
-mongodb+srv://nithish-shettigar:kittu214@cluster0.cmuceat.mongodb.net/
+*****
+mongodb+srv://nithish-shettigar:****4@cluster0.cmuceat.mongodb.net/
 
 npm i mongoose
 npm i nodemon
